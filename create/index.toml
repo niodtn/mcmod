@@ -1,13 +1,48 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "4e0de0f8b7921a609612cb1fd67721e801addc4f659b909ea9a1717cd131c80b"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "63181126ca8ff3989e9a0e91ce01121545e26e4a9ca8cbe4e6681395c92b1edd"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
