@@ -6,11 +6,6 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
-file = "mods/badpackets.pw.toml"
-hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "a704bc3997d75ffc2cac8311ef97f6336fcae75f6c82242d8a36fc15a2641c56"
 metafile = true
@@ -111,18 +106,8 @@ hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
-file = "mods/wthit.pw.toml"
-hash = "c2e5139e073df0c2c7420366d9ff07ae51c2baec65dc7966bf9c22e81d403f51"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "cf9320c102b530590a5b8e6f60ed3a4c995acc112320b1143715efdfa884cceb"
-metafile = true
-
-[[files]]
-file = "mods/your-reputation.pw.toml"
-hash = "dc5b3fea1ab561e2ac3bc03ab61a4247ced1bc9aeebe795d8b67860b7cf68f69"
 metafile = true
 
 [[files]]
