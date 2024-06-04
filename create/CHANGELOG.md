@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.4](https://github.com/ipegte93/mcmod/compare/v1.1.2...v1.1.4) (2024-06-04)
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.1.3 ([9c8a732](https://github.com/ipegte93/mcmod/commit/9c8a7328d80c23db46a484bd8a74efcffb772e6b))
+* **main:** release 1.1.4 ([546c6ee](https://github.com/ipegte93/mcmod/commit/546c6ee404d41c2f0a05a229f453e02a04ed25f0))
+
 ## [1.1.2](https://github.com/ipegte93/mcmod/compare/v1.1.0...v1.1.2) (2024-06-04)
 
 
