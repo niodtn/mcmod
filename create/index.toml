@@ -51,8 +51,18 @@ hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
