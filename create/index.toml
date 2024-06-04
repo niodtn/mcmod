@@ -89,3 +89,8 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
+
+[[files]]
+file = "mods/your-reputation.pw.toml"
+hash = "dc5b3fea1ab561e2ac3bc03ab61a4247ced1bc9aeebe795d8b67860b7cf68f69"
+metafile = true
