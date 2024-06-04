@@ -66,6 +66,11 @@ hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
 file = "mods/full-brightness-toggle.pw.toml"
 hash = "8bfdc99ec72d637a564f908a72aeb369ef3af56ab6546c818bf1834f390b5f4e"
 metafile = true
