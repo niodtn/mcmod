@@ -1,0 +1,13 @@
+name = "No Hotbar Looping"
+filename = "nohotbarlooping-1.1.1-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HmJkmcXO/versions/bEpOTNxF/nohotbarlooping-1.1.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "728dc7df9b5dd928ce70bf9f474e0dcbdb1f2532"
+
+[update]
+[update.modrinth]
+mod-id = "HmJkmcXO"
+version = "bEpOTNxF"
