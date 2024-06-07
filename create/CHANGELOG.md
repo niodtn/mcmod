@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/ipegte93/mcmod/compare/v1.1.6...v1.2.0) (2024-06-07)
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.2.0 ([646b045](https://github.com/ipegte93/mcmod/commit/646b045e03f607c4233422532f0064303fbfec1e))
+
 ## [1.1.6](https://github.com/ipegte93/mcmod/compare/v1.1.5...v1.1.6) (2024-06-07)
 
 
