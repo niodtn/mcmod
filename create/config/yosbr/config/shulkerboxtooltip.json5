@@ -1,0 +1,6 @@
+{
+  tooltip: {
+    showKeyHints: false,
+    type: "NONE",
+  },
+}
