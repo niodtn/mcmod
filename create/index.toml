@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "123f1a039057b31e998576d2d7b4727241fab67db59bc00bed60fb9e8da3798f"
+hash = "6f067dcd686a0a4e784f03aec15b3105a1cac06033cb1d27aa7058300f1a4714"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "0cdbcc5b01c232dfeb9afd150b2af4167484939043c2e8eb8ebc0dd0bb459aa1"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
