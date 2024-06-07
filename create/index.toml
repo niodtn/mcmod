@@ -1,8 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "aa9713b04a9a616f81f739cafd3b665e3fb835cc281c4478e92b0a8ba8e34c20"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "e801c439914b3f8609ad41be6072eee3d918b0ff0170ab69a1db21ff11ef672f"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/auto-third-person.pw.toml"
+hash = "b795f82c6f1f34676cd52ee7acc49bf9ef2469762c25b707bc8e0f2d3dab27a2"
+metafile = true
+
+[[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
 metafile = true
 
 [[files]]
@@ -61,8 +81,18 @@ hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "01c94894fc8ce4a564c7ad0a74d71d4b75d8cc5ad85e921cfc71c013d52adeca"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-attack-indicator.pw.toml"
+hash = "bda35046f0b3d657acc0f32eaaead78999d353e0611f9760016e2c85c567a482"
 metafile = true
 
 [[files]]
@@ -171,6 +201,11 @@ hash = "7fad6f68116d926be6eb8f07a90d926b6b7839ccf1baf88d08a0fdfdd28063c3"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
@@ -186,6 +221,16 @@ hash = "5003f2c451c9459b7911ac786897eead4d74a8ebdad4741476949791b26c3caa"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "c1bb34a084263fc7421219d95bff2c4ad10c311998ede265fb0658fa783d1e72"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "9f38461b4e2c233243c2149dd495f9992672cba45088557a29f93dc3b8cd12f4"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
 metafile = true
@@ -193,6 +238,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "85637a09fe2f619c54117e29e9f562aa8e91d5942733df5f6ac19c966348d1cd"
+metafile = true
+
+[[files]]
+file = "mods/xbob.pw.toml"
+hash = "e9a9f39462adff02decc572eaeb50996898fcf0398930308848b0446309c7301"
 metafile = true
 
 [[files]]

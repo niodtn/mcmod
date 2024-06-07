@@ -1,0 +1,13 @@
+name = "Crosshair Bobbing"
+filename = "CrosshairBobbing-1.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/paCz780b/versions/U55x7gYb/CrosshairBobbing-1.5.jar"
+hash-format = "sha1"
+hash = "636da8535f73ca1cefa2c70c5244e15768a854f6"
+
+[update]
+[update.modrinth]
+mod-id = "paCz780b"
+version = "U55x7gYb"
