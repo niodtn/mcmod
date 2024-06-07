@@ -1,12 +1,12 @@
 name = "Create"
 author = "niodtn"
-version = "1.3.3"
+version = "1.3.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "727566cb162e328c03a5ffbd186661b64a3ae7fce6da35c2981f9086fbe24e3e"
+hash = "0c5f96c37cb62a32f7438d454bc71b43621b8726b0595b4c19f158bbf88e6bf3"
 
 [versions]
 fabric = "0.15.11"
