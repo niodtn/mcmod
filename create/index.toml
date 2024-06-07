@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "123f1a039057b31e998576d2d7b4727241fab67db59bc00bed60fb9e8da3798f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "aa9713b04a9a616f81f739cafd3b665e3fb835cc281c4478e92b0a8ba8e34c20"
 metafile = true
@@ -13,11 +17,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
-metafile = true
-
-[[files]]
-file = "mods/auto-third-person.pw.toml"
-hash = "b795f82c6f1f34676cd52ee7acc49bf9ef2469762c25b707bc8e0f2d3dab27a2"
 metafile = true
 
 [[files]]
@@ -91,6 +90,11 @@ hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "c6f6a8198f1e6483dcfb2c7aa4714969c26a018f6c7b2251b7647eef73e969de"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
 hash = "bda35046f0b3d657acc0f32eaaead78999d353e0611f9760016e2c85c567a482"
 metafile = true
@@ -121,6 +125,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
 file = "mods/full-brightness-toggle.pw.toml"
 hash = "8bfdc99ec72d637a564f908a72aeb369ef3af56ab6546c818bf1834f390b5f4e"
 metafile = true
@@ -133,6 +142,16 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "e181bb57004fede8c736e9183d8645e7db17d965669590575b3cbbc1050075ef"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tabs.pw.toml"
+hash = "a59823cb4698d6b0b1c288459c7d007c480cc02ab0689caa3ed10e6f77006ab3"
 metafile = true
 
 [[files]]
@@ -201,8 +220,18 @@ hash = "7fad6f68116d926be6eb8f07a90d926b6b7839ccf1baf88d08a0fdfdd28063c3"
 metafile = true
 
 [[files]]
+file = "mods/portable-crafting.pw.toml"
+hash = "8fab00e6b089bafcc3a14463902f8244cb0032acfd52da9c54cf455b675f0101"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e7150de20c3dae1ab19c99881fd8c4bab920f67f97f26311f7ab63fdee0f13d0"
 metafile = true
 
 [[files]]
@@ -253,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "cf9320c102b530590a5b8e6f60ed3a4c995acc112320b1143715efdfa884cceb"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
