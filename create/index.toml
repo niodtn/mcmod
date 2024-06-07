@@ -1,16 +1,37 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG.md"
-hash = "6f067dcd686a0a4e784f03aec15b3105a1cac06033cb1d27aa7058300f1a4714"
+file = "config/yosbr/config/clean-debug.json"
+hash = "8812c514472d7a3c7fbd0740970c8d23c510b2124c31d3357bde49aed68183fa"
+
+[[files]]
+file = "config/yosbr/config/enhanced_attack_indicator.json"
+hash = "0e1aa766d2c9368546ccb9764dd20c88cf5097ba499a346603e31c7d1de4944d"
+
+[[files]]
+file = "config/yosbr/config/jade/plugins.json"
+hash = "e1cf507d367171b0e462173d22862d37588cbf3cfe0e11c50eb2e510ca088237"
+
+[[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "5aebb158fd339b0cb394fa564efd93bbc47c30c47c135deefd23404850bfe21a"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "c49651d6300fe7e857054ca1b6393bc3ed171b99a73665c86df74ce40b56ca38"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0cdbcc5b01c232dfeb9afd150b2af4167484939043c2e8eb8ebc0dd0bb459aa1"
+hash = "1082d4c333efcdc32930ffcd61d24ee62030cd1843a0ba4624fa5406eb5814c5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "aa9713b04a9a616f81f739cafd3b665e3fb835cc281c4478e92b0a8ba8e34c20"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
 metafile = true
 
 [[files]]
