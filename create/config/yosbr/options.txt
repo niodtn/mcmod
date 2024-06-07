@@ -1,7 +1,16 @@
+version:3465
+autoJump:false
 enableVsync:false
+operatorItemsTab:true
+snooperEnabled:false
 darkMojangStudiosBackground:true
 gamma:1.0
 advancedItemTooltips:false
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+telemetryOptInExtra:false
+onboardAccessibility:false
 lang:ko_kr
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
