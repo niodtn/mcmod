@@ -1,0 +1,13 @@
+name = "ExtendedDrawersAddon"
+filename = "extendeddrawersaddon-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/daHYok8P/versions/2k6Tunwz/extendeddrawersaddon-1.0.2.jar"
+hash-format = "sha1"
+hash = "fe1b5bd0aaea21363175b0656f46d0ef69072da6"
+
+[update]
+[update.modrinth]
+mod-id = "daHYok8P"
+version = "2k6Tunwz"
