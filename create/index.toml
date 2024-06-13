@@ -335,6 +335,11 @@ hash = "85637a09fe2f619c54117e29e9f562aa8e91d5942733df5f6ac19c966348d1cd"
 metafile = true
 
 [[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "5dc49fed1045ca205ac2a750bb34e3e2526bf9577498b4013fc79efd67e6dd89"
+metafile = true
+
+[[files]]
 file = "mods/xbob.pw.toml"
 hash = "e9a9f39462adff02decc572eaeb50996898fcf0398930308848b0446309c7301"
 metafile = true
