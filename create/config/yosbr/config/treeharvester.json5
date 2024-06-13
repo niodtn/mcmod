@@ -1,0 +1,4 @@
+{
+  replaceSaplingOnTreeHarvest: false,
+  replaceMushroomOnMushroomHarvest: false,
+}
